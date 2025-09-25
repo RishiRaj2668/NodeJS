@@ -53,7 +53,39 @@
 (E)
 
 
-<img width="773" height="242" alt="output_4" src="https://github.com/user-attachments/assets/56b3fcdd-2fc6-4386-b1ad-e7d20230faf9" />
+
+<img width="773" height="242" alt="output_4" src="https://github.com/user-attachments/assets/f54382c5-31d5-44d0-a27d-4007c9b90ce1" />
 
 
+# File 3 Output
+
+
+(A)
+
+
+<img width="666" height="273" alt="output_1" src="https://github.com/user-attachments/assets/a07a9437-2f02-45be-a292-4699bcdb347c" />
+
+
+
+(B)
+
+
+<img width="663" height="696" alt="output_2" src="https://github.com/user-attachments/assets/8b8d3eee-5525-4e89-8210-ef1087505d4d" />
+
+
+
+(C)
+
+
+
+<img width="730" height="338" alt="output_3" src="https://github.com/user-attachments/assets/09128ed1-2f71-4620-a376-333d3ad26be0" />
+
+
+
+(D)
+
+
+
+
+<img width="692" height="344" alt="output_4" src="https://github.com/user-attachments/assets/0a18fbdf-0eac-425f-b5c8-33daeff5ba7d" />
 
