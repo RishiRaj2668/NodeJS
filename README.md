@@ -1,6 +1,8 @@
 # NodeJS
 #File 1 outputs 
+
 (A)
+
 <img width="357" height="263" alt="output_1" src="https://github.com/user-attachments/assets/bf9fefd6-e2c7-42e5-9a05-3ae5c6d64eba" />
 
 (B)
